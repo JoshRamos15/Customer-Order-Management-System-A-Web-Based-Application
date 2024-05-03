@@ -1,4 +1,5 @@
 Customer Order Management System
+
 This repository contains the web application developed for the CPS 3740 Database Management Systems course at Kean University. The project demonstrates practical skills in building a secure, dynamic web application using PHP, HTML, and MySQL for managing customer orders and product data.
 
 Features
